@@ -1,0 +1,31 @@
+main>* {
+    margin: 2px 0px;
+    line-height: 2.2rem
+}
+
+.m-top {
+    margin-top: 2.2rem;
+}
+
+main h2 {
+    text-align: center;
+    font-weight: 400;
+    line-height: 2.2rem;
+    background: linear-gradient(90deg, transparent, var(--grey-color), transparent);
+}
+
+main p {
+    text-align: center;
+    font-size: larger;
+    font-weight: 300;
+}
+
+main h4 {
+    text-align: center;
+    font-size: larger;
+    font-weight: 400;
+}
+
+main b {
+    font-weight: 500;
+}
